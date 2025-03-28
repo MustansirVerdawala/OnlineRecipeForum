@@ -1,0 +1,7 @@
+mustansir/recipemanagement/resources/JakartaEE8Resource.class
+Helper/RecipeList.class
+Persistence/Recipe_CRUD.class
+endpoint/ApplicationConfig.class
+Helper/Recipe.class
+endpoint/RecipeResource.class
+mustansir/recipemanagement/JakartaRestConfiguration.class
